@@ -1,5 +1,5 @@
 {
-  "homepage": "ahayaSKBINCN.github.io/gh-deploy",
+  "homepage": "ahayaSKBINCN.github.io/gh-deploy/",
   "private": true,
   "scripts": {
     "start": "umi dev",
